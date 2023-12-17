@@ -1,5 +1,5 @@
-#define SKETCH_NAME    "ESP-NOW GATEWAY"
-#define SKETCH_VERSION "2022-01-01"
+﻿#define SKETCH_NAME    "ESP-NOW GATEWAY"
+#define SKETCH_VERSION "2023-12-10"
 #define SKETCH_ABOUT   "ESP-Now Gateway template code and demonstrator of simultaneous ESP-Now and WiFi."
 #define LED 15
 /*
@@ -474,3 +474,4 @@ void reconnect() {
     }
   }
 }
+
