@@ -1,2 +1,1 @@
-# ASS_Embedded
- Assignment Embedded System
+# ASS_IOT
